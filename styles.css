@@ -1,0 +1,44 @@
+a{
+    color: black;
+    text-decoration:none
+}
+
+.navbar{
+    height: 60px;
+    margin-top: 2%;
+    padding-inline: 2%;
+
+    display: flex;
+    align-items: center;
+}
+
+.navHeader{
+    font-size: 18pt;
+    margin-right: auto;
+}
+
+.navItem{
+    font-size: large;
+    margin-inline: 10px;
+}
+
+.checked{
+    color: blueviolet;
+}
+
+.navItem:hover{
+    color: blueviolet;
+}
+
+.call{
+    font-size: large;
+    padding: 1%;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 25px;
+    margin-left: auto;
+}
+
+.button:hover{
+    background-color: rgb(17, 1, 22);
+}
