@@ -192,3 +192,9 @@ h2{
 .clientLogo{
     margin-inline: 50px;
 }
+
+.copyright{
+    font-size: 0.8em;
+    color: gray;
+    height: 50px;
+}
