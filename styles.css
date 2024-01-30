@@ -63,7 +63,7 @@ h1{
 }
 
 p{
-    line-height: 0.4;
+    line-height: 0.3;
 }
 
 .greedingsText{
@@ -101,11 +101,6 @@ h2{
     width: 100%;
 }
 
-p{
-    display: block;
-    line-height: 0;
-}
-
 .mt-0{
     margin-top: 0px;
 }
@@ -131,4 +126,29 @@ p{
 
 .width-80p{
     width: 60%;
+}
+
+.aboutUs{
+    text-align: left;
+    height: 800px;
+}
+
+.rightImage{
+    width: 100%;
+    height: 100%;
+    background-image: url("rightImage.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.lineHeight-1p5{
+    line-height: 1.5;
+}
+
+.lineHeight-1{
+    line-height: 1;
+}
+
+.textAlignLeft{
+    text-align: left;
 }
